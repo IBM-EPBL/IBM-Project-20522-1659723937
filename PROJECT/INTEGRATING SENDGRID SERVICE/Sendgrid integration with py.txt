@@ -4,7 +4,7 @@ from sendgrid.helpers.mail import Mail
 
 
 message = Mail(
-    from_email="verified_email@gmail.com",
+    from_email="sit19cs102@sairamtap.edu.in",
     to_emails="receiver@gmail.com",
     subject="test",
     html_content="<p>hi</hi>"
